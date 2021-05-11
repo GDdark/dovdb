@@ -6,7 +6,7 @@
   "author": "Dongxi Huang <huangdongxc@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "typescript": "^3.9.7"
   },
   "devDependencies": {
